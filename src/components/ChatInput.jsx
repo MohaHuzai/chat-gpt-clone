@@ -17,7 +17,7 @@ const ChatInput = ({
         className="w-full text-base-content"
         value={chatInput}
         onChange={handleInputChange}
-        placeholder="Message FadGPT"
+        placeholder="Message HuzaiGPT"
         disabled={disabled}
       />
       <div>
